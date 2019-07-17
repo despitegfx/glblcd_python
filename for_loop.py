@@ -21,9 +21,15 @@ print (style())
 def LookFor(word):
     for letter in word:
         if letter == 'a':
-            return True
+    return True
         
 
-    name= (str(input("Enter a word: ")) 
-    yes == (lookFor(name))
+name= (str(input("Enter a word: ")) 
+yes == (lookFor(name))
 print(yes)
+       
+       
+       
+
+#Assignment Fork a repository on github
+#github.com/cajagu/ClassBook2019

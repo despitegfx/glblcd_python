@@ -11,6 +11,7 @@ ledred = LED(18)
 ledyellow = LED(23)
 ledgreen = LED(24)
 
+
 def trafficlight():
     
     ledgreen.off()
